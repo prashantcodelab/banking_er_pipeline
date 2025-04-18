@@ -1,5 +1,5 @@
 # Entity Resolution Project - Banking Use Case
-# Author: [Your Name]
+# Author: Prashant Tyagi
 # Description: End-to-end entity resolution pipeline with Streamlit UI, including rule-based and ML-based matching
 
 # === MODULES ===

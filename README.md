@@ -27,7 +27,7 @@ This repository contains an interactive and modular **Entity Resolution (ER)** s
 - 🕵️ Manual review interface for uncertain matches
 - 💾 Save matched results to local CSVs
 - 🚀 CI/CD pipeline with GitHub Actions
-- 🔔 Slack alerts on build failures (optional)
+
 
 ---
 
@@ -97,7 +97,6 @@ See full details in `CHANGELOG.md`.
 ## [1.0.1] - 2025-04-18
 - Add CI/CD via GitHub Actions
 - Add file upload support in Streamlit
-- Add Slack notification integration
 - Add confidence scoring & review UI
 ```
 

@@ -1,0 +1,10 @@
+﻿,customer_id_1,full_name_1,last_name_1,address_1,zip_1,email_1,block_key,customer_id_2,full_name_2,last_name_2,address_2,zip_2,email_2,name_sim,addr_sim,email_sim,label,ml_is_match,match_confidence
+41,1167,Amy Smith,Smith,76591 Jerry Ways,91240,amy.smith@example.com,S91240,1167,Amy Smith,Smith,76591 Jerry Ways,91240,amy.smith@demo.com,100,100,76,1,1,1
+48,1196,Kenneth Knight,Knight,0017 David Walks Apt. 770,56573,kenneth.knight@example.com,K56573,1196,Kenneth Knight,Knight,0017 David Walks Apt. 770,56573,kenneth.knight@demo.com,100,100,82,1,1,1
+40,1159,Alexis Giles,Giles,739 Randy Garden,72863,alexis.giles@example.com,G72863,1159,Alexis Giles,Giles,739 Randy Garden,72863,alexis.giles@demo.com,100,100,80,1,1,0.8606052558552555
+11,1057,Darryl Craig,Craig,490 Thomas Run,58464,darryl.craig@example.com,C58464,1057,Darryl Craig,Craig,490 Thomas Run,58464,darryl.craig@demo.com,100,100,80,1,1,0.8606052558552555
+20,1091,Jeff Lawson,Lawson,3815 Rodriguez Springs Suite 840,29404,jeff.lawson@example.com,L29404,1091,Jeff Lawson,Lawson,3815 Rodriguez Springs Suite 840,29404,jeff.lawson@demo.com,100,100,79,1,1,0.9888282828282827
+24,1099,Kathryn Rosario,Rosario,51820 Jasmine Mill Apt. 554,51280,kathryn.rosario@example.com,R51280,1099,Kathryn Rosario,Rosario,51820 Jasmine Mill Apt. 554,51280,kathryn.rosario@demo.com,100,100,83,1,1,0.6930476190476188
+22,1096,Sabrina Briggs,Briggs,24329 Kathleen Shoal,10377,sabrina.briggs@example.com,B10377,1096,Sabrina Briggs,Briggs,24329 Kathleen Shoal,10377,sabrina.briggs@demo.com,100,100,82,1,1,1
+47,1192,Laura Patel,Patel,4494 Derek Terrace,54449,laura.patel@example.com,P54449,1192,Laura Patel,Patel,4494 Derek Terrace,54449,laura.patel@demo.com,100,100,79,0,1,0.9888282828282827
+44,1179,Mary Kelly,Kelly,656 Alex Green,29599,mary.kelly@example.com,K29599,1179,Mary Kelly,Kelly,656 Alex Green,29599,mary.kelly@demo.com,100,100,77,1,1,1

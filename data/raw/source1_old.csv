@@ -1,0 +1,4 @@
+customer_id,full_name,last_name,address,zip,email
+101,John A Smith,Smith,123 Elm St,75001,john.smith@email.com
+102,Jane Doe,Doe,456 Maple Ave,75002,jane.d@email.com
+103,Robert L Brown,Brown,789 Oak Blvd,75003,robert.b@email.com

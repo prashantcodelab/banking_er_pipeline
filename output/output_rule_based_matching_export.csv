@@ -1,0 +1,51 @@
+﻿,customer_id_1,full_name_1,last_name_1,address_1,zip_1,email_1,block_key,customer_id_2,full_name_2,last_name_2,address_2,zip_2,email_2,name_sim,addr_sim,email_sim,score,is_match
+0,1006,Matthew Foster,Foster,42388 Burgess Meadow Suite 532,67285,matthew.foster@example.com,F67285,1006,Matthew Foster,Foster,42388 Burgess Meadow Suite 532,67285,matthew.foster@demo.com,100,100,82,96.4,true
+1,1010,Paula Moreno,Moreno,570 Sarah Wells,40807,paula.moreno@example.com,M40807,1010,Paula Moreno,Moreno,570 Sarah Wells,40807,paula.moreno@demo.com,100,100,80,96,true
+2,1019,Cynthia Wilson,Wilson,909 Robert Prairie,74586,cynthia.wilson@example.com,W74586,1019,Cynthia Wilson,Wilson,909 Robert Prairie,74586,cynthia.wilson@demo.com,100,100,82,96.4,true
+3,1024,Kristen Patterson,Patterson,12805 Russell Canyon,40905,kristen.patterson@example.com,P40905,1024,Kristen Patterson,Patterson,12805 Russell Canyon,40905,kristen.patterson@demo.com,100,100,84,96.8,true
+4,1025,Timothy Stanton,Stanton,3315 Dickson Summit,20758,timothy.stanton@example.com,S20758,1025,Timothy Stanton,Stanton,3315 Dickson Summit,20758,timothy.stanton@demo.com,100,100,83,96.6,true
+5,1026,Cynthia Martin,Martin,0256 Joseph Turnpike,92418,cynthia.martin@example.com,M92418,1026,Cynthia Martin,Martin,0256 Joseph Turnpike,92418,cynthia.martin@demo.com,100,100,82,96.4,true
+6,1027,Shane Garrison,Garrison,75433 Donna Locks,43526,shane.garrison@example.com,G43526,1027,Shane Garrison,Garrison,75433 Donna Locks,43526,shane.garrison@demo.com,100,100,82,96.4,true
+7,1043,Claudia Lyons,Lyons,99124 Beth Inlet Suite 631,78108,claudia.lyons@example.com,L78108,1043,Claudia Lyons,Lyons,99124 Beth Inlet Suite 631,78108,claudia.lyons@demo.com,100,100,81,96.2,true
+8,1051,Tony Little,Little,09477 Peterson Center Suite 711,53022,tony.little@example.com,L53022,1051,Tony Little,Little,09477 Peterson Center Suite 711,53022,tony.little@demo.com,100,100,79,95.8,true
+9,1052,Kenneth Parks Jr.,Jr.,31869 Kimberly Light Suite 749,56708,kenneth.parks.jr.@example.com,J56708,1052,Kenneth Parks Jr,Jr.,31869 Kimberly Light Suite 749,56708,kenneth.parks.jr.@demo.com,100,100,84,96.8,true
+10,1055,Taylor Coleman,Coleman,242 Brian Turnpike,40820,taylor.coleman@example.com,C40820,1055,Taylor Coleman,Coleman,242 Brian Turnpike,40820,taylor.coleman@demo.com,100,100,82,96.4,true
+11,1057,Darryl Craig,Craig,490 Thomas Run,58464,darryl.craig@example.com,C58464,1057,Darryl Craig,Craig,490 Thomas Run,58464,darryl.craig@demo.com,100,100,80,96,true
+12,1058,Catherine Richards,Richards,75655 Mia Isle Suite 746,72603,catherine.richards@example.com,R72603,1058,Catherine Richards,Richards,75655 Mia Isle Suite 746,72603,catherine.richards@demo.com,100,100,85,97,true
+13,1061,Michelle Collins,Collins,613 Steven Crest,85397,michelle.collins@example.com,C85397,1061,Michelle Collins,Collins,613 Streeteven Crest,85397,michelle.collins@demo.com,100,89,84,92.39999999999999,true
+14,1064,Timothy Kane,Kane,636 Louis Mountains,92936,timothy.kane@example.com,K92936,1064,Timothy Kane,Kane,636 Louis Mountains,92936,timothy.kane@demo.com,100,100,80,96,true
+15,1067,Gary Craig,Craig,7809 Jimmy Spur Suite 316,13404,gary.craig@example.com,C13404,1067,Gary Craig,Craig,7809 Jimmy Spur Suite 316,13404,gary.craig@demo.com,100,100,77,95.4,true
+16,1071,Jessica Wright,Wright,67136 Andrews Squares Suite 064,1562,jessica.wright@example.com,W1562,1071,Jessica Wright,Wright,67136 Andrews Squares Suite 064,1562,jessica.wright@demo.com,100,100,82,96.4,true
+17,1078,Michael Paul,Paul,261 Gilbert Harbors Apt. 537,58788,michael.paul@example.com,P58788,1078,Michael Paul,Paul,261 Gilbert Harbors Apt. 537,58788,michael.paul@demo.com,100,100,80,96,true
+18,1080,Gavin Zhang,Zhang,83933 Schroeder Turnpike,78617,gavin.zhang@example.com,Z78617,1080,Gavin Zhang,Zhang,83933 Schroeder Turnpike,78617,gavin.zhang@demo.com,100,100,79,95.8,true
+19,1083,Ashley Gordon,Gordon,847 Bruce Neck,53141,ashley.gordon@example.com,G53141,1083,Ashley Gordon,Gordon,847 Bruce Neck,53141,ashley.gordon@demo.com,100,100,81,96.2,true
+20,1091,Jeff Lawson,Lawson,3815 Rodriguez Springs Suite 840,29404,jeff.lawson@example.com,L29404,1091,Jeff Lawson,Lawson,3815 Rodriguez Springs Suite 840,29404,jeff.lawson@demo.com,100,100,79,95.8,true
+21,1093,Justin Barnett,Barnett,60607 Michelle Ports Suite 966,38448,justin.barnett@example.com,B38448,1093,Justin Barnett,Barnett,60607 Michelle Ports Suite 966,38448,justin.barnett@demo.com,100,100,82,96.4,true
+22,1096,Sabrina Briggs,Briggs,24329 Kathleen Shoal,10377,sabrina.briggs@example.com,B10377,1096,Sabrina Briggs,Briggs,24329 Kathleen Shoal,10377,sabrina.briggs@demo.com,100,100,82,96.4,true
+23,1097,Raymond Snyder,Snyder,995 Hernandez Cliff Suite 744,78019,raymond.snyder@example.com,S78019,1097,Raymond Snyder,Snyder,995 Hernandez Cliff Suite 744,78019,raymond.snyder@demo.com,100,100,82,96.4,true
+24,1099,Kathryn Rosario,Rosario,51820 Jasmine Mill Apt. 554,51280,kathryn.rosario@example.com,R51280,1099,Kathryn Rosario,Rosario,51820 Jasmine Mill Apt. 554,51280,kathryn.rosario@demo.com,100,100,83,96.6,true
+25,1103,Christopher Guerra,Guerra,706 Rhodes Freeway,58723,christopher.guerra@example.com,G58723,1103,Christopher Guerra,Guerra,706 Rhodes Freeway,58723,christopher.guerra@demo.com,100,100,85,97,true
+26,1106,Denise Whitehead,Whitehead,1375 Robert Locks,66300,denise.whitehead@example.com,W66300,1106,Denise Whitehead,Whitehead,1375 Robert Locks,66300,denise.whitehead@demo.com,100,100,84,96.8,true
+27,1107,James Miller,Miller,51522 Justin Village,62426,james.miller@example.com,M62426,1107,James Miller,Miller,51522 Justin Village,62426,james.miller@demo.com,100,100,80,96,true
+28,1119,Samuel Hayes,Hayes,55188 Vance Vista Apt. 258,29892,samuel.hayes@example.com,H29892,1119,Samuel Hayes,Hayes,55188 Vance Vista Apt. 258,29892,samuel.hayes@demo.com,100,100,80,96,true
+29,1121,Jason Andrews,Andrews,1778 Anderson Village,72761,jason.andrews@example.com,A72761,1121,Jason Andrews,Andrews,1778 Anderson Village,72761,jason.andrews@demo.com,100,100,81,96.2,true
+30,1122,Catherine Burch,Burch,018 Kevin Estates Suite 358,37731,catherine.burch@example.com,B37731,1122,Catherine Burch,Burch,018 Kevin Estates Suite 358,37731,catherine.burch@demo.com,100,100,83,96.6,true
+31,1125,Kimberly May,May,3647 Haley Estate Suite 677,27242,kimberly.may@example.com,M27242,1125,Kimberly May,May,3647 Haley Estate Suite 677,27242,kimberly.may@demo.com,100,100,80,96,true
+32,1133,Jason Parker,Parker,749 Jennifer Prairie,63474,jason.parker@example.com,P63474,1133,Jason Parker,Parker,749 Jennifer Prairie,63474,jason.parker@demo.com,100,100,80,96,true
+33,1140,Brenda Oconnell,Oconnell,7734 Mitchell Circle,12226,brenda.oconnell@example.com,O12226,1140,Brenda Oconnell,Oconnell,7734 Mitchell Circle,12226,brenda.oconnell@demo.com,100,100,83,96.6,true
+34,1142,Alexandra Bradley,Bradley,4788 Small Dale,66589,alexandra.bradley@example.com,B66589,1142,Alexandra Bradley,Bradley,4788 Small Dale,66589,alexandra.bradley@demo.com,100,100,84,96.8,true
+35,1144,Nicole Thompson,Thompson,8516 Jack Dam Suite 530,34682,nicole.thompson@example.com,T34682,1144,Nicole Thompson,Thompson,8516 Jack Dam Suite 530,34682,nicole.thompson@demo.com,100,100,83,96.6,true
+36,1148,Joshua Wagner,Wagner,58713 Davis Pass,58891,joshua.wagner@example.com,W58891,1148,Joshua Wagner,Wagner,58713 Davis Pass,58891,joshua.wagner@demo.com,100,100,81,96.2,true
+37,1151,Jacqueline Vance,Vance,6182 Wilson Plain Suite 823,956,jacqueline.vance@example.com,V956,1151,Jacqueline Vance,Vance,6182 Wilson Plain Suite 823,956,jacqueline.vance@demo.com,100,100,84,96.8,true
+38,1156,Joseph Horton,Horton,46287 Melissa Hills Apt. 708,54591,joseph.horton@example.com,H54591,1156,Joseph Horton,Horton,46287 Melissa Hills Apt. 708,54591,joseph.horton@demo.com,100,100,81,96.2,true
+39,1157,Kristin Anderson,Anderson,3517 Davis Stream,25467,kristin.anderson@example.com,A25467,1157,Kristin Anderson,Anderson,3517 Davis Streetream,25467,kristin.anderson@demo.com,100,89,84,92.39999999999999,true
+40,1159,Alexis Giles,Giles,739 Randy Garden,72863,alexis.giles@example.com,G72863,1159,Alexis Giles,Giles,739 Randy Garden,72863,alexis.giles@demo.com,100,100,80,96,true
+41,1167,Amy Smith,Smith,76591 Jerry Ways,91240,amy.smith@example.com,S91240,1167,Amy Smith,Smith,76591 Jerry Ways,91240,amy.smith@demo.com,100,100,76,95.2,true
+42,1175,Evelyn Oliver,Oliver,5692 Flores Square Apt. 752,52699,evelyn.oliver@example.com,O52699,1175,Evelyn Oliver,Oliver,5692 Flores Square Apt. 752,52699,evelyn.oliver@demo.com,100,100,81,96.2,true
+43,1178,Christian Henderson,Henderson,79796 Stephens Turnpike Suite 891,14836,christian.henderson@example.com,H14836,1178,Christian Henderson,Henderson,79796 Streetephens Turnpike Suite 891,14836,christian.henderson@demo.com,100,94,86,94.8,true
+44,1179,Mary Kelly,Kelly,656 Alex Green,29599,mary.kelly@example.com,K29599,1179,Mary Kelly,Kelly,656 Alex Green,29599,mary.kelly@demo.com,100,100,77,95.4,true
+45,1187,Cody Reid,Reid,274 Jacob Ville,59614,cody.reid@example.com,R59614,1187,Cody Reid,Reid,274 Jacob Ville,59614,cody.reid@demo.com,100,100,76,95.2,true
+46,1188,Sharon Crane,Crane,36887 Cohen Mall Suite 721,74608,sharon.crane@example.com,C74608,1188,Sharon Crane,Crane,36887 Cohen Mall Suite 721,74608,sharon.crane@demo.com,100,100,80,96,true
+47,1192,Laura Patel,Patel,4494 Derek Terrace,54449,laura.patel@example.com,P54449,1192,Laura Patel,Patel,4494 Derek Terrace,54449,laura.patel@demo.com,100,100,79,95.8,true
+48,1196,Kenneth Knight,Knight,0017 David Walks Apt. 770,56573,kenneth.knight@example.com,K56573,1196,Kenneth Knight,Knight,0017 David Walks Apt. 770,56573,kenneth.knight@demo.com,100,100,82,96.4,true
+49,1197,Michael Anderson,Anderson,41541 Beck Run Apt. 064,95657,michael.anderson@example.com,A95657,1197,Michael Anderson,Anderson,41541 Beck Run Apt. 064,95657,michael.anderson@demo.com,100,100,84,96.8,true

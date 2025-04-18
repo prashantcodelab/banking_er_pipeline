@@ -9,11 +9,11 @@ __pycache__/
 .ipynb_checkpoints
 
 # Data files
-data/raw/
-data/processed/
-data/models/
-*.csv
-*.xlsx
+#data/raw/
+#data/processed/
+#data/models/
+#*.csv
+#*.xlsx
 
 # Environment and dependency files
 .env

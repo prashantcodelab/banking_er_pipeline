@@ -1,0 +1,4 @@
+customer_id,full_name,last_name,address,zip,email
+201,Jon A Smyth,Smyth,123 Elm Street,75001,johnsmith@email.com
+202,Jane D.,D.,456 Maple Avenue,75002,jane.d@email.com
+203,Robert Brown,Brown,789 Oak Boulevard,75003,robert.b@email.com

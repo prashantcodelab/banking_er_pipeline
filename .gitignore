@@ -10,10 +10,15 @@ __pycache__/
 
 # Data files
 #data/raw/
-#data/processed/
-#data/models/
+data/processed/
+data/models/
 #*.csv
 #*.xlsx
+
+#not ready
+er_core/
+notebooks/
+docs/
 
 # Environment and dependency files
 .env

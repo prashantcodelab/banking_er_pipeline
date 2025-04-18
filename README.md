@@ -1,6 +1,6 @@
 # 🧠 Entity Resolution Pipeline for Banking
 
-This project provides a full end-to-end **Entity Resolution (ER)** system built for financial institutions like Citibank. It identifies and merges duplicate or related customer records across different data sources using both rule-based and machine learning approaches.
+This project provides a full end-to-end **Entity Resolution (ER)** system built for financial institutions like Mybank. It identifies and merges duplicate or related customer records across different data sources using both rule-based and machine learning approaches.
 
 ## 📦 Features
 

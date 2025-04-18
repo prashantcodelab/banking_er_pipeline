@@ -3,6 +3,19 @@
 This repository contains an interactive and modular **Entity Resolution (ER)** system built using Python and Streamlit, designed for identifying and resolving duplicate or similar records across datasets—ideal for banking and financial customer data.
 
 ---
+![entity resolution](./img/er_demo_app.png)
+
+### Rule Based Matching
+![rule based matching](./img/rule_based_matching.png)
+
+### ML Based Matching
+![ml confusion matrix](./img/ml_based_matching_confusion_matrix.png)
+
+![ml based top 10 uncertain](./img/ml_manual_review.png)
+![ml based matching](./img/ml_based_matched_records.png)
+
+---
+
 
 ## ✨ Features
 

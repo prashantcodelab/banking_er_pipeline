@@ -1,0 +1,34 @@
+# Python artifacts
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints
+
+# Data files
+data/raw/
+data/processed/
+data/models/
+*.csv
+*.xlsx
+
+# Environment and dependency files
+.env
+.venv/
+venv/
+*.egg-info/
+
+# Mac / VSCode
+.DS_Store
+.vscode/
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+logs/
+*.log
+

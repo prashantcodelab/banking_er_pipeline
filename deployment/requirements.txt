@@ -1,1 +1,8 @@
-# Python dependencies
+streamlit
+scikit-learn
+pandas
+numpy
+thefuzz
+seaborn
+matplotlib
+

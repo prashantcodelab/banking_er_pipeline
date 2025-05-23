@@ -69,7 +69,7 @@ Both CSV files should have the following columns:
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/your-username/banking_er_pipeline.git
+git clone https://github.com/prashantcodelab/banking_er_pipeline.git
 cd banking_er_pipeline
 python -m venv .venv
 source .venv/bin/activate   # or .venv\Scripts\activate on Windows
